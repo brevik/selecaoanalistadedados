@@ -21,4 +21,4 @@ Atenciosamente,
 
 
 ## Dashboard elaborado 
-<img align="left" alt="python" width="26px" src="https://github.com/brevik/selecaoanalistadedados/blob/main/Dashboard_Kaizen.jpg" />
+<img align="left" alt="python" src="https://github.com/brevik/selecaoanalistadedados/blob/main/Dashboard_Kaizen.jpg" />
