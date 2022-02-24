@@ -20,5 +20,5 @@ Qualquer dúvida, estou à disposição.
 Atenciosamente,
 
 
-## Dashboard elaborado 
+### Dashboard elaborado em PowerBI
 <img align="left" alt="python" src="https://github.com/brevik/selecaoanalistadedados/blob/main/Dashboard_Kaizen.jpg" />
