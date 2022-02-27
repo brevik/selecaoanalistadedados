@@ -1,5 +1,4 @@
-# selecaoanalistadedados
- Projeto desenvolvido em um processo seletivo para cargo de Analista de Dados
+# Projeto desenvolvido em um processo seletivo para cargo de Analista de Dados
 
 
 ----------------------------------------------------------------------------
@@ -18,3 +17,7 @@ Atividades recebidas após o horário não serão consideradas.
 
 Qualquer dúvida, estou à disposição.
 Atenciosamente,
+
+
+### Dashboard elaborado em PowerBI
+<img align="left" alt="python" src="https://github.com/brevik/selecaoanalistadedados/blob/main/Dashboard_Kaizen.jpg" />
